@@ -1,6 +1,6 @@
 # Weather
 
-Simple app using Yahoo Weather API and Google Place Autocomplete API
+Simple Android app using Yahoo Weather API and Google Place Autocomplete API
 
 The architechture is MVP
 
